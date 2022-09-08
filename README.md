@@ -200,7 +200,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## :mega: Acknowledgments
 
-* Holberton School (providing guidance)
+* ALX Africa (providing guidance)
 * Stack Overflow (help on various memory errors (not leaks))
 
 <p align="center">
