@@ -191,8 +191,7 @@ $ cd Betty; ./install.sh
 
 ## :blue_book: Authors
 
-* **Isaac Baccah
-
+* **Daniel Ojeyomi
 
 ## :mag: License
 
